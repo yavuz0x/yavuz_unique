@@ -34,4 +34,4 @@ To install Yavuz Unique on your local machine, follow these steps:
 The project can be run with the following command:
 
 ```bash
-python3 yavuz_unique.py
+python3 main.py
