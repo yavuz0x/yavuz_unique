@@ -1,4 +1,4 @@
-# yavuz_unique
+
 # Yavuz Unique
 
 Yavuz Unique is an innovative project with unique features that stand out. This project focuses on the following objectives:
