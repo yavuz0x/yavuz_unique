@@ -12,4 +12,5 @@ setup(
             'my-notebook-app=my_notebook_app.main:main',
         ],
     },
+    url='https://github.com/yavuz0x/yavuz_unique',  # GitHub deposunun URL'sini ekleyin
 )
