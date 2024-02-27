@@ -15,7 +15,7 @@ setup(
     author='Yavuz',
     author_email='yavuz0x00@gmail.com',
     description='A short description of your project',
-    bugtrack_url='https://github.com/yavuz0x/yavuz_unique',
+    url='https://github.com/yavuz0x/yavuz_unique',
     long_description=open('README.md').read(),  # README.md dosyasının içeriğini uzun açıklama olarak kullanın
     long_description_content_type='text/markdown',  # README.md dosyasının türünü belirtin
     classifiers=[
