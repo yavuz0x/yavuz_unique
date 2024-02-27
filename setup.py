@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yavuz_unique',
-    version='0.1.2',
+    version='0.1.3',
     packages=find_packages(),
     install_requires=[
         'my-notebook-app==0.1.0',  # Gerekli bağımlılıkları buraya ekleyin
@@ -15,7 +15,7 @@ setup(
     author='Yavuz',
     author_email='yavuz0x00@gmail.com',
     description='A short description of your project',
-    url='https://github.com/yavuz0x/yavuz_unique',
+    bugtrack_url='https://github.com/yavuz0x/yavuz_unique',
     long_description=open('README.md').read(),  # README.md dosyasının içeriğini uzun açıklama olarak kullanın
     long_description_content_type='text/markdown',  # README.md dosyasının türünü belirtin
     classifiers=[
