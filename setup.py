@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'my-notebook-app=my_notebook_app.main:main',
+            'yavuz-word-game=yavuz_unique.scripts.yavuz_game_script:main',
         ],
     },
     url='https://github.com/yavuz0x/yavuz_unique',  # GitHub deposunun URL'sini ekleyin
