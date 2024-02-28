@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yavuz_unique',
-    version='0.1.5',
+    version='0.1.6',
     packages=find_packages(),
     install_requires=[
         'my-notebook-app==0.1.0',  # Gerekli bağımlılıkları buraya ekleyin
@@ -25,7 +25,6 @@ setup(
         'Programming Language :: Python :: 3.8',
     ],
     project_urls={
-        'Homepage': 'https://github.com/yavuz0x/yavuz_unique',
         'Source': 'https://github.com/yavuz0x/yavuz_unique',
     },
 )
