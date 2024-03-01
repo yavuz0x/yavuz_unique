@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yavuz_unique',
-    version='0.1.6',
+    version='0.1.7',
     packages=find_packages(),
     install_requires=[
         'cann_calculator==1.0.0',
