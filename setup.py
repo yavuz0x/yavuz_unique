@@ -5,7 +5,8 @@ setup(
     version='0.1.6',
     packages=find_packages(),
     install_requires=[
-        'my-notebook-app==0.1.0',  # Gerekli bağımlılıkları buraya ekleyin
+        'cann_calculator==1.0.0',
+        'lilzey_generator==0.1.0',  # Gerekli bağımlılıkları buraya ekleyin
     ],
     entry_points={
         'console_scripts': [
